@@ -1,3 +1,6 @@
 Flask==1.1.1
 jupyterlab==1.1.4
 pandas==0.25.2
+urllib3
+bs4
+justext
