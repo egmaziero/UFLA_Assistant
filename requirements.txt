@@ -1,6 +1,6 @@
 elasticsearch==7.1.0
 Flask==1.1.1
-jupyterlab==1.1.4
+jupyterlab==1.2.21
 jusText==2.2.0
 news-please==1.4.24
 nlpnet==1.2.4
