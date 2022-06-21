@@ -5,7 +5,7 @@ jusText==2.2.0
 news-please==1.4.24
 nlpnet==1.2.4
 nltk==3.4.5
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.25.2
 pt-core-news-sm==2.2.0
 requests==2.22.0
